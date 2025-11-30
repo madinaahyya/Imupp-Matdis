@@ -1,0 +1,14 @@
+Nama,X1,X2,X3,X4,X5,�,X12,X13,X14,
+1,Menengah,Proyek pribadi,30 menit - 1 jam,> 10 Kali,4,�,4,Mengunggah data → Analisis data → Simpan hasil,Menulis / memperbaiki kode,
+2,Pemula,Tugas Kuliah,30 menit - 1 jam,≤ 5 Kali,3,�,4,Menulis kode → Menjalankan program → Debugging,Menulis / memperbaiki kode,
+3,Menengah,Tugas Kuliah,> 2 jam,> 10 Kali,5,�,4,Menulis kode → Error → Minta bantuan AI,Menjalankan program,
+4,Menengah,Tugas Kuliah,> 2 jam,> 10 Kali,5,�,5,Menulis kode → Error → Minta bantuan AI,Menulis / memperbaiki kode,
+5,Pemula,Tugas Kuliah,> 2 jam,> 10 Kali,5,�,5,Menulis kode → Error → Minta bantuan AI,Menjalankan program,
+:,:,:,:,:,:,:,:,:,:,:
+:,:,:,:,:,:,:,:,:,:,:
+:,:,:,:,:,:,:,:,:,:,:
+105,Menengah,Tugas Kuliah,1 - 2 jam,≤ 5 Kali,3,�,3,Meminta syntax AI → Menulis kode → Menjalankan program,Menulis / memperbaiki kode,
+106,Menengah,Tugas Kuliah,1 - 2 jam,> 10 Kali,5,�,4,Meminta syntax AI → Menulis kode → Menjalankan program,Menjalankan program,
+107,Pemula,Tugas Kuliah,> 2 jam,≤ 5 Kali,3,�,4,Mengunggah data → Analisis data → Simpan hasil,Menulis / memperbaiki kode,
+108,Pemula,Tugas Kuliah,> 2 jam,≤ 5 Kali,2,�,5,Meminta syntax AI → Menulis kode → Menjalankan program,Menjalankan program,
+109,Menengah,Tugas Kuliah,> 2 jam,> 10 Kali,4,�,4,Mengunggah data → Analisis data → Simpan hasil,Menjalankan program,
